@@ -9,6 +9,12 @@ This requires [cookiecutter](https://github.com/cookiecutter/cookiecutter) to be
 pip install -r requirements.txt
 ```
 
-## Running 
-Try creating the `test_package`
-```cookiecutter test_package```
+## Get Started 
+* With cookiecutter installed, the python-cookiecutter template can be installed with:
+```cookiecutter git@github.com:jamwine/python-cookiecutter.git --overwrite-if-exists```
+
+* Clone the project and run:
+```cookiecutter python-cookiecutter```
+
+* To replay the previous command, use the `--replay` flag:
+```cookiecutter python-cookiecutter --replay```
