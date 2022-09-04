@@ -7,5 +7,5 @@ Made with [python-cookiecutter](https://github.com/jamwine/python-cookiecutter)
 
 # {{ cookiecutter.project_name }}
 
-**Package**: {{ cookiecutter.package_name }}
-**Description**: {{ cookiecutter.project_short_description }}
+* **Package**: {{ cookiecutter.package_name }}
+* **Description**: {{ cookiecutter.project_short_description }}
