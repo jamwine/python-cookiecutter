@@ -1,0 +1,11 @@
+include *.hbs
+include *.json
+include *.in
+include *.md
+include *.properties
+include .bumpversion.cfg
+include pytest.ini
+recursive-include tests *.py
+include .coveragerc
+
+# include *.txt

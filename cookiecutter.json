@@ -1,0 +1,11 @@
+{
+    "project_name": "project-name",
+    "package_name": "{{ cookiecutter.project_name.lower().replace('-', '_') }}",
+    "full_name": "JAMWINE",
+    "email": "dagjoins@gmail.com"
+    "github_username": "jamwine",
+    "project_short_description": "Short description",
+    "version": "0.1.0",
+    "python_version": "3.9",
+    "url" = "https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_name }}"
+}
