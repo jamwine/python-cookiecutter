@@ -449,3 +449,4 @@ gcp-service-account.json
 .idea/
 data/
 logs/
+.secrets
